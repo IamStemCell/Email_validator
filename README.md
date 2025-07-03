@@ -1,4 +1,4 @@
-# Email_validator
+# Email_verificator
 Module validates emails for format and filters by domain (whitelist/blacklist)
 
 
