@@ -1,0 +1,2 @@
+# no external dependencies needed
+#email verificator module uses only built-in re
